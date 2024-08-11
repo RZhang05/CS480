@@ -2,7 +2,11 @@
 
 ## Sources
 
-Notebooks adapted from https://www.kaggle.com/code/hdjojo/modified-planttraits2024-eda-training and https://www.kaggle.com/code/markwijkhuizen/planttraits2024-eda-training-pub. Fine-tuned model from the same source.
+Notebooks adapted from 
+1. https://www.kaggle.com/code/hdjojo/modified-planttraits2024-eda-training
+2. https://www.kaggle.com/code/markwijkhuizen/planttraits2024-eda-training-pub
+
+Fine-tuned model from (1).
 
 ## Reproducibility
 
